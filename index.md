@@ -245,7 +245,7 @@
     </div>
     <div class="row mb-3">
         <div class="col-lg-8 offset-lg-2 text-center">
-            <p>Oh hewwo... I'm not sure what to put here yet uwu</p>
+            <p>Thank you so much for viewing my site. This site is currently under maintenance; thank you for your patience!</p>
             <ul class="nav justify-content-center">
                 <li class="nav-item">
                     <a class="nav-link" href="#">About us</a>
